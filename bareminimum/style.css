@@ -1,3 +1,9 @@
 body {
-  
+    background-color: mistyrose;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.rewardbox {
+  display: none;
 }
